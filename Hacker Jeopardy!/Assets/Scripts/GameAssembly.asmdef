@@ -1,0 +1,16 @@
+{
+    "name": "GameAssembly",
+    "references": [
+        "Unity.TextMeshPro",
+        "Plugins",
+        "Drag-Drop"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
